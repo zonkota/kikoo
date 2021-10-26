@@ -4,16 +4,11 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-<<<<<<< HEAD
 django = "*"
 
 [dev-packages]
 flake8 = "*"
 autopep8 = "*"
-=======
-
-[dev-packages]
->>>>>>> origin/main
 
 [requires]
 python_version = "3.10"
